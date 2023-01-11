@@ -1,5 +1,5 @@
 # Medical Thesis Notebooks
-Collection of personal Python Notebooks used for Medical Thesis Statistics
+Collection of personal Python Notebooks used for Medical Thesis Statistics.
 
 ## Covid19
 - Descriptive Statistics
